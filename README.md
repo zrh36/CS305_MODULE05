@@ -1,2 +1,6 @@
 # CS305_MODULE05
-Module 05 assignment repo
+This repository is Module 05 assignment. This is a porject that is made up. We will be digging to the center of the Earth.
+In this repository we will need to do the following calculations to compelete to porject. Hopefully we can reach China
+
+
+
